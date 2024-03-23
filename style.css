@@ -1,0 +1,60 @@
+
+body{
+    color: rgb(118, 103, 103);
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+    /* border: 2px solid black; */
+}
+th, td {
+    border:  solid transparent;
+    padding: 8px;
+    text-align: left;
+  }
+th {
+    background-color: rgba(5, 5, 5, 0.1);
+  }
+tr.trthree{
+    background-color:rgba(0, 0, 0, 0.1);
+}
+tr.trfour{
+    background-color:rgba(0, 0, 0, 0.1);
+}
+button.ctbtn{
+    color: white;
+    border-radius: 5px;
+    border: solid transparent;
+    background-color: greenyellow;
+    padding: 5px;
+    width: 120px;
+}
+button.ptbtn{
+    color: white;
+    border-radius: 5px;
+    border: solid transparent;
+    background-color: rgb(47, 135, 222);
+    padding: 5px;
+    width: 120px;
+}
+button.ntbtn{
+    color: white;
+    border-radius: 5px;
+    border: solid transparent;
+    background-color: rgb(255, 47, 61);
+    padding: 5px;
+    width: 120px;
+}
+button.edit{
+    width: auto;
+    padding: 6px;
+}
+button.del{
+    width: auto;
+    padding: 6px;
+}
+
+
+
